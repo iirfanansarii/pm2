@@ -3,7 +3,7 @@
 - Use `npm start` to starts/serves the application.
 - Closing the terminal stops the running application.
 - To keep the application running, the terminal where the app is running must not be closed.
--To run each application one terminal is needed.
+- To run each application one terminal is needed.
 
 
 # PM2
